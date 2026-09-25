@@ -1,0 +1,1 @@
+Os ícones .ico da versão desktop não são necessários para o deploy Linux/Render.\n

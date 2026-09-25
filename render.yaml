@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: gestao-de-toner-mvp-render
+    runtime: docker
+    plan: free
+    region: virginia
+    branch: main
+    autoDeploy: true
+    healthCheckPath: /
+    dockerfilePath: ./Dockerfile

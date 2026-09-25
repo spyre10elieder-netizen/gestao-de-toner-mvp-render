@@ -1,0 +1,10 @@
+# Exemplo de configuração local - NÃO contém credenciais reais
+modoEnvio=Power Automate
+powerAutomateUrl=https://exemplo.invalid/fluxo-demo
+fornecedorEmail=fornecedor@exemplo.com
+copiaEmail=ti@exemplo.com
+remetente=
+senha=
+smtpHost=smtp.example.com
+porta=587
+seguranca=STARTTLS

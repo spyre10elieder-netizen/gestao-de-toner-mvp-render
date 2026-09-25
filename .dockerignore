@@ -1,0 +1,12 @@
+.git
+.github
+out
+dist
+dados
+dados-academico
+*.class
+*.jar
+*.log
+*.tmp
+*.bak
+config/email.properties

@@ -1,0 +1,23 @@
+# Arquivos gerados pela compilação
+out/
+dist/
+*.class
+*.jar
+
+# Dados locais da aplicação
+dados-academico/
+
+# IDE / SO
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+
+# Temporários
+*.tmp
+*.bak
+# Proteção adicional contra dados da versão de produção
+dados/
+config/email.properties
+*.log

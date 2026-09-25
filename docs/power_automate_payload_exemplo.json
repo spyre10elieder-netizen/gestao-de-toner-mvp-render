@@ -1,0 +1,16 @@
+{
+  "sistema": "Gestão de Toner",
+  "tipo": "solicitacao_toner",
+  "dataEnvio": "2026-09-10T10:00:00",
+  "modoEnvio": "Power Automate",
+  "numeroChamado": "DEMO-2026-005",
+  "toner": "ADMINISTRATIVO - RICOH IM 430 - DEMO-001 - TONER W10",
+  "contador": "12500",
+  "solicitante": "USUÁRIO 1",
+  "observacoes": "Dados fictícios para demonstração acadêmica.",
+  "status": "Aguardando Aprovação",
+  "assunto": "Solicitação de toner - DEMO-2026-005",
+  "fornecedorEmail": "fornecedor@exemplo.com",
+  "copiaEmail": "ti@exemplo.com",
+  "temAnexo": "false"
+}
